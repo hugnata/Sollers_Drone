@@ -1,4 +1,7 @@
-Bienvenue sur le wiki. 
+Accueil
+===========
+
+Bienvenue sur le wiki.
 Ici, on peut trouver toute la doc relative au drone et à son fonctionnement.
 
 .. toctree::
