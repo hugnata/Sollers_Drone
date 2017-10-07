@@ -1,5 +1,13 @@
 Bienvenue sur le wiki. 
-Ici, on peut trouver toute la doc relative au drone et à son fonctionnement. 
+Ici, on peut trouver toute la doc relative au drone et à son fonctionnement.
+
+.. toctree::
+   :maxdepth: 2
+
+   Home
+   Modules
+          Communication
+
 
 Versions: 
 ------------------
