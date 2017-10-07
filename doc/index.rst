@@ -12,7 +12,7 @@ Ici, on peut trouver toute la doc relative au drone et à son fonctionnement.
           Communication
 
 
-Versions: 
+Versions:
 ------------------
  Le développement du drone est découpé en plusieurs versions, chacune ajoutant une ou plusieurs fonctionnalités, liée à des modules. C'est pour cela que le wiki sera séparé par "Module".
 
