@@ -7,9 +7,8 @@ Ici, on peut trouver toute la doc relative au drone et à son fonctionnement.
 .. toctree::
    :maxdepth: 2
 
-   Home
-   Modules
-          Communication
+   index
+   Modules/modules
 
 
 Versions:
